@@ -1,10 +1,10 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("project-6", "Sultans Of Sing", "img/projects/project-6-icon.png", `
+    new ProjectData("project-6", "Active Sleep App", "img/projects/project-6-icon.png", `
     <div class="paragraph">
-      <strong>Sultans Of Sing</strong> is a thing of beauty that I am so proud of. It's available on Windows Store because why not.
-      <br/>Image by <a href="https://www.pexels.com/fr-fr/@aldoalz" target="blank">Aldo Picaso</a>.
+      <strong>Active Sleep App</strong> is an Android & iOS application for monitoring sleep quality.
+      <br/>It can analyzes heartbeat, respiration and body movement.
             </div>
             <div class="paragraph center">
               <a href="https://www.microsoft.com/en-us/p/some-app" target="_blank"><img src="img/projects/ms-store-logo.png" alt="MS Store button" /></a>
