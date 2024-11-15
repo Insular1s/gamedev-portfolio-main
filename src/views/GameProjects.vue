@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Stuff</h1>
+    <h1>Games</h1>
 
     <div style="margin-bottom: 30px;">
       Here are some games I've created, either to be released, or during game jams, or to showcase my skills using Unity and Unreal Engine. 

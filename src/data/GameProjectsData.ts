@@ -66,43 +66,54 @@ export default [
     <img class="pc-screenshot" src="img/projects/zishaku-3.png" alt="Zishaku Screenshot" />
     </div>
     `, "#5a78af"),
-    new ProjectData("project-3", "Drawing Overload", "img/projects/project-3-icon.png", `
+    new ProjectData("project-3", "Last Train Home", "img/projects/last-train-home-logo.png", `
     <div class="paragraph">
-        <strong>Drawing Overload</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-        <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@miphotography">Miesha Maiden</a>.
+        <strong>Last Train Home</strong> is my VR Horror Game project that is still under development. The concept for this game is a psychological horror where no jumpscares are added in the game.
+        <br/>The development started on July this year and I hope it will be finish sometime next year.
     </div>
+
     <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+        <a href="https://github.com/Insular1s/HorrorProject" target="_blank"><img src="img/projects/github-logo.png" alt="Github badge" /></a>
+    </div>
+
+    <div class="paragraph">
+    <div class="notice">
+        Source code is available on <a href="https://github.com/Insular1s/HorrorProject" target="_blank">GitHub</a>.
+    </div>
     </div>
 
     <div class="paragraph">
         Main features :
         <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
+        <li>Psychological Horror game that doesn't rely on cheap jumpscares</li>
+        <li>The mechanics in this game inspired by <strong>Silent Hill P.T</strong>, where the players going on and on in infinite corridor like.</li>
+        <li>The game also uses simple VR mechanics like interacting and grabbing with objects in the game</li>
+        <li>Seamless portal system is also embedded in the game.</li>
+        <li>I'm also using free assets to kind of give me a challenge in developing this game.</li>
         </ul>
     </div>
 
+    <div class="paragraph center">
+        <img class="pc-screenshot" src="img/projects/last-train-home-1.png" alt="Last Train Home Screenshot" />
+        <img class="pc-screenshot" src="img/projects/last-train-home-2.png" alt="Last Train Home Screenshot" />
+        <img class="pc-screenshot" src="img/projects/last-train-home-3.png" alt="Last Train Home Screenshot" />
+        <img class="pc-screenshot" src="img/projects/last-train-home-4.png" alt="Last Train Home Screenshot" />
+    </div>
+    `, "#383838"),
+    new ProjectData("project-4", "Haunted Warehouse", "img/projects/project-4-icon.png", `
     <div class="paragraph">
-        <div class="notice">
-        Playable in the browser (WebGL) on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        Source code is available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
-        </div>
+    <strong>Haunted Warehouse</strong> is an accessible game I developed for my Master degree research. The game made in mind to give challenge and suspense to hearing impaired gamers without making it difficult for them to play.
+    <br/>This game developed last year, and used for examination with hearing impaired gamers.
     </div>
 
     <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
+        <a href="https://github.com/Insular1s/HorrorProject" target="_blank"><img src="img/projects/github-logo.png" alt="Github badge" /></a>
     </div>
-    `, "#383838"),
-    new ProjectData("project-4", "Eugeneable", "img/projects/project-4-icon.png", `
+
     <div class="paragraph">
-    <strong>Eugeneable</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-    <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@neo8iam">NEOSiAM 2020</a>.
+    <div class="notice">
+        Source code is available on <a href="https://github.com/Insular1s/HorrorProject" target="_blank">GitHub</a>.
+    </div>
     </div>
     
     <div class="paragraph">
@@ -115,17 +126,11 @@ export default [
         </ul>
     </div>
 
-    <div class="paragraph">
-        <div class="notice">
-        Windows build available on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        </div>
-    </div>
-
     <div class="paragraph center">
         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
     </div>
-    `, "#e80fb7"),
+    `, "#e48246"),
     new ProjectData("project-5", "Cloud Drew Land", "img/projects/project-5-icon.png", `
     <div class="paragraph">
         <strong>Cloud Drew Land</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
