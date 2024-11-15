@@ -33,7 +33,7 @@ export default [
         <img class="pc-screenshot" src="img/projects/metalventure-1.png" alt="Metalventure Screenshot" />
         <img class="pc-screenshot" src="img/projects/metalventure-2.png" alt="Metalventure Screenshot" />
     </div>
-    `, "#e80fb7"),
+    `, "#e80fb7", false, true),
     new ProjectData("project-2", "Zishaku", "img/projects/zishaku-logo.png", `
     <div class="paragraph">
         <strong>Zishaku</strong> is a game that I'm proud of to show my game design skill. I developed this game with a team of 5 in 2022 Global Game Jam. Zishaku is about an uncomplete robot that has to travel through space in order to collect his parts.
@@ -100,63 +100,37 @@ export default [
         <img class="pc-screenshot" src="img/projects/last-train-home-4.png" alt="Last Train Home Screenshot" />
     </div>
     `, "#383838"),
-    new ProjectData("project-4", "Haunted Warehouse", "img/projects/project-4-icon.png", `
+    new ProjectData("project-4", "Twilight Memoria", "img/projects/project-4-icon.png", `
     <div class="paragraph">
-    <strong>Haunted Warehouse</strong> is an accessible game I developed for my Master degree research. The game made in mind to give challenge and suspense to hearing impaired gamers without making it difficult for them to play.
-    <br/>This game developed last year, and used for examination with hearing impaired gamers.
+    <strong>Twilight Memoria</strong> is a JRP game that me and my friend developed during our university years.
+    <br/>It really took us to another level, developing game with our limited time and resources.
     </div>
 
     <div class="paragraph center">
-        <a href="https://github.com/Insular1s/HorrorProject" target="_blank"><img src="img/projects/github-logo.png" alt="Github badge" /></a>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/gbKX-E0Nvkk?si=_R1YOwxnMz5LNnrP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    
     </div>
 
     <div class="paragraph">
     <div class="notice">
-        Source code is available on <a href="https://github.com/Insular1s/HorrorProject" target="_blank">GitHub</a>.
+        Twilight Memoria is available on <a href="https://store.steampowered.com/app/1402900/Twilight_Memoria/" target="_blank">Steam</a>.
     </div>
     </div>
     
     <div class="paragraph">
         Main features :
         <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
+        <li>Unique battle system, where the player can throw a combo at the enemies</li>
+        <li>First time battle might be difficult but as you progress the game it will be easier</li>
+        <li>Crafting and alchemy system</li>
+        <li>I did some design on the alchemy system, it could be a little bit difficult to do the alchemy sometime because of the recipe</li>
         </ul>
     </div>
 
     <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
+        <img class="pc-screenshot" src="img/projects/twilight-1.png" alt="Twilight Memoria Screenshot" />
+        <img class="pc-screenshot" src="img/projects/twilight-2.png" alt="Twilight Memoria Screenshot" />
+        <img class="pc-screenshot" src="img/projects/twilight-3.png" alt="Twilight Memoria Screenshot" />
+        <img class="pc-screenshot" src="img/projects/twilight-4.png" alt="Twilight Memoria Screenshot" />
     </div>
-    `, "#e48246"),
-    new ProjectData("project-5", "Cloud Drew Land", "img/projects/project-5-icon.png", `
-    <div class="paragraph">
-        <strong>Cloud Drew Land</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-        <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@cottonbro">cottonbro</a>.
-    </div>
-    
-    <div class="paragraph">
-        Main features :
-        <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
-        </ul>
-    </div>
-
-    <div class="paragraph">
-        <div class="notice">
-        Windows build available on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        Source code available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
-        </div>
-    </div>
-
-    <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
-    </div>`, "#e48246")
+    `, "#e48246", false, true)
 ];
