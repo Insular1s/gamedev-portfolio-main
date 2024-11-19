@@ -1,32 +1,33 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("project-6", "Active Sleep App", "img/projects/project-6-icon.png", `
+    new ProjectData("project-6", "Active Sleep App", "img/projects/active-sleep-4.jpg", `
     <div class="paragraph">
       <strong>Active Sleep App</strong> is an Android & iOS application for monitoring sleep quality.
-      <br/>It can analyzes heartbeat, respiration and body movement.
+      <br/>It analyzes heartbeats, breathing, and body movements that cannot be understood just by sleeping, scores the sleep of the day, and gives a little advice.
             </div>
             <div class="paragraph center">
-              <a href="https://www.microsoft.com/en-us/p/some-app" target="_blank"><img src="img/projects/ms-store-logo.png" alt="MS Store button" /></a>
+              <a href="https://play.google.com/store/apps/details?id=com.paramount.bed&hl=en" target="_blank"><img src="img/projects/play-store-logo.png" alt="Google Play Store button" /></a>
           </div>
 
           <div class="paragraph">
             Main features :
             <ul>
-            <li>Some stuff</li>
-            <li>Some great stuff</li>
-            <li>More awesome stuff</li>
-            <li>And then some</li>
+            <li>I was a QA and QC tester back when I did a part-time job for this client.</li>
+            <li>The app has a lot of useful function inside it, and me myself used it for a year while being a tester.</li>
+            <li>One function that I am proud of is the Snore System, I probably managed to strike a highscore in that :)</li>
+            <li>Another great function is that the system also works with an automated bed system</li>
             </ul>
         </div>
 
         <div class="paragraph center">
-          <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Sultans Of Sing Screenshot" />
-          <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Sultans Of Sing Screenshot" />
-          <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Sultans Of Sing Screenshot" /> 
+          <img class="phone-screenshot" src="img/projects/active-sleep-1.png" alt="Active Sleep App Screenshot" />
+          <img class="phone-screenshot" src="img/projects/active-sleep-2.png" alt="Active Sleep App Screenshot" />
+          <img class="phone-screenshot" src="img/projects/active-sleep-3.png" alt="Active Sleep App Screenshot" />
+          <img class="phone-screenshot" src="img/projects/active-sleep-logo.jpg" alt="Active Sleep App Screenshot" />
         </div>
     `, "#c10606", true, false),
-    new ProjectData("project-7", "Drew Blood", "img/projects/project-7-icon.png", `
+    new ProjectData("project-7", "Digital School Note", "img/projects/project-7-icon.png", `
     <div class="paragraph">
                 <strong>Drew Blood</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
                 <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@karolina-grabowska">Karolina Grabowska</a>.
