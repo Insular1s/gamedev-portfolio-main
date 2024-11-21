@@ -19,7 +19,7 @@
       </div>
     </div>
     <div class="photo">
-      <img src="img/resume-photo.png" alt="Photo of John" />
+      <img src="img/resume-og.jpg" alt="Photo of Rizky" />
     </div>
 
     <div style="clear:both"></div>
@@ -195,7 +195,7 @@ h4 {
 }
 
 .photo img {
-  height: 300px;
+  height: 400px;
   width: 300px;
 }
 

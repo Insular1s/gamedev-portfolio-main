@@ -1,9 +1,9 @@
 <template>
   <div>
-    <h1>Non-game projects</h1>
+    <h1>Research and other projects</h1>
 
     <div style="margin-bottom: 30px;">
-      And here are some other stuff I've made or heavily contributed to, which are totally different than the stuff from earlier.
+      Here are some other stuff I'm heavily contributed to, and my research projects that I've made, which are totally different than the stuff from earlier.
     </div>
     <ProjectsList v-bind:projects="projects" />
   </div>
