@@ -5,7 +5,7 @@
     <div class="paragraph">
       <div>
         I'm <strong>Aulia Rizky Ramadhan</strong>, I'm a PhD Course Student at <a href="https://www.teu.ac.jp/"> Tokyo University of Technology. </a><br/>
-        I spend my days living in Tokyo with my wife, and we had our beatiful marriage for almost a year now. <br/>
+        I spend my days living in Hachioji, Tokyo with my wife, and we had our beatiful marriage for almost a year now. <br/>
         <br/>
         I'm also a passionate game developer (mostly gameplay programmer using Unity and Unreal Engine) and I love discussing, designing and developing apps and games in general. 
       </div>
