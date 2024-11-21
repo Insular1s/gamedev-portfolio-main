@@ -66,7 +66,7 @@ export default [
           
             <div class="paragraph">
               <div class="notice">
-                Here is a brief description of my Master's research theme. <a class="download-link" href="d/master-thesis.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF 🇬🇧</a>
+                Here is a brief description of my Master's research theme. <a class="download-link" href="d/master_thesis.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF 🇬🇧</a>
               </div>
             </div>
 
