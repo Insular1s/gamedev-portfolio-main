@@ -14,7 +14,7 @@
       <br />Besides development, I'm passionate about video games. Also I love hiking, modeling, and photography.
 
       <div style="margin-top:20px; margin-bottom:20px;">
-        <a class="download-link" href="d/cv.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF 🇬🇧</a>
+        <a class="download-link" href="d/cv.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF</a>
         <div style="clear:both"></div>
       </div>
     </div>
@@ -99,12 +99,12 @@
       <div>AI System Development Course, Department of Advanced Information Technology</div>
       <div>Specialty in robotics and mechatronics system</div>
 
-      <h3>Tokyo University of Technology </h3>
+      <h3>Tokyo University of Technology Graduate School</h3>
       <h4>2021 - 2023・Master Degree</h4>
       <div>Graduate School of Bionics, Computer and Media Sciences, Computer Science Program</div>
       <div>Specialty in accessibility system and design in Mixed Reality (XR)</div>
 
-      <h3>Tokyo University of Technology </h3>
+      <h3>Tokyo University of Technology Graduate School</h3>
       <h4>2023 - Present・Doctorate Course</h4>
       <div>Graduate School of Bionics, Computer and Media Sciences, Computer Science Program</div>
       <div>Specialty in accessibility system and design in board games</div>

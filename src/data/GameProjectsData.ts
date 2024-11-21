@@ -100,7 +100,7 @@ export default [
         <img class="pc-screenshot" src="img/projects/last-train-home-4.png" alt="Last Train Home Screenshot" />
     </div>
     `, "#383838"),
-    new ProjectData("project-4", "Twilight Memoria", "img/projects/project-4-icon.png", `
+    new ProjectData("project-4", "Twilight Memoria", "img/projects/twilight-1.png", `
     <div class="paragraph">
     <strong>Twilight Memoria</strong> is a JRP game that me and my friend developed during our university years.
     <br/>It really took us to another level, developing game with our limited time and resources.
