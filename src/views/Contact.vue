@@ -8,7 +8,7 @@
     <ul>
       <li>
         <i class="fa fa-user-circle-o fa-lg fa-fw"></i>
-        <a href="http://mywebsite.com" target="_blank">https://auliarizky.netlify.app</a>
+        <a href="https://auliarizky.netlify.app" target="_blank">My Website</a>
       </li>
       <li>
         <i class="fa fa-envelope-o fa-lg fa-fw"></i>
