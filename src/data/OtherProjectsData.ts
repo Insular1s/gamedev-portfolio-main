@@ -9,7 +9,7 @@ export default [
 
           </div>
             <div class="paragraph center">
-              <a href="https://play.google.com/store/apps/details?id=com.paramount.bed&hl=en" target="_blank"><img src="img/projects/play-store-logo.png" alt="Google Play Store button" /></a>
+              <a href="https://play.google.com/store/apps/details?id=com.paramount.bed&hl=en" target="_blank"><img src="img/projects/play-store-logo.png" alt="Google Play Store button" /></a> <a href="https://apps.apple.com/jp/app/active-sleep-app/id1453118417" target="_blank"><img src="img/projects/app-store-logo.png" alt="Apple Store button" /></a>
           </div>
 
           <div class="paragraph">
