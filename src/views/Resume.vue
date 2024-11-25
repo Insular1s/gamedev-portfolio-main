@@ -8,7 +8,7 @@
       <br />When I was in college, with my friends I invested a very limited amount of time and money to create our own game for about three years, and was finally able to release it on <a href="https://store.steampowered.com/app/1402900/Twilight_Memoria/"> Steam. </a>
       <br />
       <br />After that, I started my own little game studio called <a href="https://bedroom-studio.itch.io/"> BedRoom Studio </a>
-      <br />After this experience, game creation became part of my passion and work, and I began to work on it in parallel with my university activities. I'm looking for a Mixed Reality (XR) Engineer job, so if you have any opportunity feel free to 
+      <br />After this experience, game creation became part of my passion and work, and I began to work on it in parallel with my university activities. I'm looking for a Game Programmer and other game related job, so if you have any opportunity feel free to 
       <router-link to="/contact">contact me</router-link>.
       <br />
       <br />Besides development, I'm passionate about video games. Also I love hiking, modeling, and photography.
