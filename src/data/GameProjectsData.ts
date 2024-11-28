@@ -14,8 +14,8 @@ export default [
 
     <div class="paragraph">
     <div class="notice">
-        Windows build available on <a href="https://bedroom-studio.itch.io/metalventure" target="_blank">itch.io</a>.
-        Source code is available on <a href="https://github.com/Insular1s/Metalventure" target="_blank">GitHub</a>.
+        Windows build available on <a class="download-link" href="d/Metalventure.zip">Here</a>.
+        Source code is available on <a href="https://github.com/Insular1s/Metalventure" target="_blank">Github</a>.
     </div>
     </div>
 
@@ -46,8 +46,8 @@ export default [
 
     <div class="paragraph">
     <div class="notice">
-        Windows build available on <a href="https://sols-atelier.itch.io/zishoku" target="_blank">itch.io</a>.
-        Source code is available on <a href="https://github.com/Solomar/GGJ2022" target="_blank">GitHub</a>.
+        Windows build available on <a class="download-link" href="d/Zishoku 1.0.zip">Here</a>.
+        Source code is available on <a href="https://github.com/Solomar/GGJ2022" target="_blank">Github</a> or <a class="download-link" href="d/GGJ2022_Zishaku-main.zip">Here</a>.
     </div>
     </div>
 
