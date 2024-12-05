@@ -1,7 +1,7 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("project-1", "Metalventure", "img/projects/project-1-icon.png", 
+    new ProjectData("project-1", "Metalventure", "vid/metalventure2.gif", 
     `
 
     <div class="paragraph">
@@ -87,7 +87,7 @@ export default [
         <video width="500px" 
            height="400px" 
            controls="controls">
-            <source src="vid/metalventure1.mp4" type="video/mp4" />
+            <source src="vid/zishaku_game.mp4" type="video/mp4" />
         </video>
     </div>
 
@@ -154,7 +154,7 @@ export default [
         <video width="500px" 
            height="400px" 
            controls="controls">
-            <source src="vid/metalventure1.mp4" type="video/mp4" />
+            <source src="vid/last-train-home.mp4" type="video/mp4" />
         </video>
     </div>
 
@@ -210,7 +210,7 @@ export default [
         <img class="pc-screenshot" src="img/projects/last-train-home-4.png" alt="Last Train Home Screenshot" />
     </div>
     `, "#383838", true, false),
-    new ProjectData("project-4", "Twilight Memoria", "vid/twilight.gif", `
+    new ProjectData("project-4", "Twilight Memoria", "vid/twilight1.gif", `
     <div class="paragraph">
     <strong>Twilight Memoria</strong> is a JRP game that me and my friend developed during our university years.
     <br/>It really took us to another level, developing game with our limited time and resources. I can't say much here but if you're interested please support us by buying the game and enjoy playing :)

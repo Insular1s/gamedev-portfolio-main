@@ -13,7 +13,7 @@ export default [
           </div>
 
           <div class="paragraph">
-            Main features :
+            <strong>Main Features :</strong>
             <ul>
             <li>I was a QA and QC tester back when I did a part-time job for this client.</li>
             <li>The app has a lot of useful function inside it, and me myself used it for a year while being a tester.</li>
@@ -37,7 +37,7 @@ export default [
             </div>
 
             <div class="paragraph">
-              Main features :
+              <strong>Main Features :</strong>
               <ul>
               <li>Real-Time Collaboration: Enables teachers and students to share and edit notes simultaneously, fostering interactive learning.</li>
               <li>Digital Whiteboard Functionality: Supports visual teaching with annotations, drawings, and multimedia integration.</li>
