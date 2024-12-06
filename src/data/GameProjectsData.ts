@@ -24,6 +24,13 @@ export default [
     </div>
 
     <div class="paragraph">
+        <strong>Development Time :</strong>
+        <ul>
+        <li>One month</li>
+        </ul>
+    </div>
+
+    <div class="paragraph">
         <strong>Main Features :</strong>
         <ul>
         <li>A complete and easy to use framework to build your own 2D games</li>
@@ -99,6 +106,13 @@ export default [
     </div>
 
     <div class="paragraph">
+        <strong>Development Time :</strong>
+        <ul>
+        <li>48 Hours</li>
+        </ul>
+    </div>
+
+    <div class="paragraph">
         <strong>Main features :</strong>
         <ul>
         <li>This game uses a simple mechanic of a magnet that can push and pull stuffs.</li>
@@ -165,6 +179,13 @@ export default [
     </div>
 
     <div class="paragraph">
+        <strong>Development Time :</strong>
+        <ul>
+        <li>Ongoing</li>
+        </ul>
+    </div>
+
+    <div class="paragraph">
         <strong>Main features :</strong>
         <ul>
         <li>Psychological Horror game that doesn't rely on cheap jumpscares</li>
@@ -225,6 +246,13 @@ export default [
         Twilight Memoria is available on <a href="https://store.steampowered.com/app/1402900/Twilight_Memoria/" target="_blank">Steam</a>.
     </div>
     </div>
+
+    <div class="paragraph">
+        <strong>Development Time :</strong>
+        <ul>
+        <li>Four years</li>
+        </ul>
+    </div>
     
     <div class="paragraph">
         <strong>Main features :</strong>
@@ -233,6 +261,20 @@ export default [
         <li>First time battle might be difficult but as you progress the game it will be easier</li>
         <li>Crafting and alchemy system</li>
         <li>I did some design on the alchemy system, it could be a little bit difficult to do the alchemy sometime because of the recipe</li>
+        </ul>
+    </div>
+
+    <div class="paragraph">
+        <strong>Development Tools :</strong>
+        <ul>
+        <li>RPG Maker</li>
+        <li>Adobe Photoshop</li>
+        <li>Adobe Illustrator</li>
+        <li>Adobe After Effects</li>
+        <li>Audacity</li>
+        <li>Aseprite</li>
+        <li>Visual Studio</li>
+        <li>Visual Studio Code</li>
         </ul>
     </div>
 
