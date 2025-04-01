@@ -1,17 +1,16 @@
 <template>
   <div>
-    <h1>Resume</h1>
+    <h1>Resume!</h1>
 
     <div class="paragraph">
-      I'm <strong>Aulia Rizky Ramadhan</strong>, an Indonesian PhD course student with lots of free time on my hands, so I used that time to develop my skill in game programming and game design.
+      I'm <strong>Aulia Rizky Ramadhan</strong>, an Indonesian Software Developer working at LogixSquare Corporation. Also, with lots of free time on my hands, I used that time to develop my skill in game programming and game design.
       <br />
       <br />When I was in college, with my friends I invested a very limited amount of time and money to create our own game for about three years, and was finally able to release it on <a href="https://store.steampowered.com/app/1402900/Twilight_Memoria/"> Steam. </a>
       <br />
       <br />After that, I started my own little game studio called <a href="https://bedroom-studio.itch.io/"> BedRoom Studio </a>
-      <br />After this experience, game creation became part of my passion and work, and I began to work on it in parallel with my university activities. I'm looking for a Game Programmer and other game related job, so if you have any opportunity feel free to 
-      <router-link to="/contact">contact me</router-link>.
+      <br />After this experience, game creation became part of my passion and work, and I began to work on it in parallel with my day job. 
       <br />
-      <br />Besides development, I'm passionate about video games. Also I love hiking, modeling, and photography.
+      <br />Besides game and software development, I'm passionate about video games. Also I love hiking, 3D modeling, and photography.
 
     </div>
     <div class="photo">
@@ -61,6 +60,16 @@
 
       <div class="tech-stack">Visual Studio, Unity, C++, C#</div>
 
+      <h3>Full Time Job・<a href="https://logixsquare.com/">LogixSquare Corporation. </a></h3>
+      <h4>April 2025 - ?</h4>
+
+      <div>In training.</div>
+      <div>- Relearn Python and JavaScript.</div>
+      <div>- Learning about the company.</div>
+      <div>- In training for Frontend or Backend job.</div>
+
+      <div class="tech-stack">Python, Django, JavaScript, AWS</div>
+
       <h2>Skills</h2>
 
       <div class="skill-set">
@@ -101,9 +110,10 @@
       <div>Specialty in accessibility system and design in Mixed Reality (XR)</div>
 
       <h3>Tokyo University of Technology Graduate School</h3>
-      <h4>2023 - Present・Doctorate Course</h4>
+      <h4>2023 - 2025・Doctorate Course</h4>
       <div>Graduate School of Bionics, Computer and Media Sciences, Computer Science Program</div>
       <div>Specialty in accessibility system and design in board games</div>
+      <div>Did not complete my doctorate</div>
 
       <h2>Languages</h2>
       <h3>Indonesian</h3>

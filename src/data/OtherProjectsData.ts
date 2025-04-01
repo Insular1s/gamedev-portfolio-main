@@ -1,7 +1,40 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("project-6", "Active Sleep App", "img/projects/active-sleep-4.jpg", `
+  new ProjectData("project-6", "Photography", "img/projects/photo1.jpg", `
+    <div class="paragraph">
+      Here is the showcase of my photography.
+      <br/>I took a lot of photos since I got my new camera back in July 2024. But, here is some of my best shot that I'm proud.
+          <div class="paragraph">
+              <div class="notice">
+                Here you go, enjoy my photo collections :D
+              </div>
+            </div>
+
+        <div class="paragraph center">
+          <img class="pc-screenshot" src="img/projects/photo2.jpg" alt="Photo of an animal" />
+          <img class="pc-screenshot" src="img/projects/photo3.jpg" alt="Photo of an animal" />
+          <img class="pc-screenshot" src="img/projects/photo4.jpg" alt="Photo of an animal" />
+          <img class="pc-screenshot" src="img/projects/photo5.jpg" alt="Photo of an animal" />
+          <img class="pc-screenshot" src="img/projects/photo6.jpg" alt="Photo of an animal" />
+          <img class="pc-screenshot" src="img/projects/photo7.jpg" alt="Photo of an animal" />
+          <img class="pc-screenshot" src="img/projects/photo8.jpg" alt="Photo of an animal" />
+          <img class="pc-screenshot" src="img/projects/photo9.jpg" alt="Photo of an animal" />
+          <img class="pc-screenshot" src="img/projects/photo10.jpg" alt="Photo of an animal" />
+          <img class="pc-screenshot" src="img/projects/photo11.jpg" alt="Photo of an animal" />
+          <img class="pc-screenshot" src="img/projects/photo12.jpg" alt="Photo of an animal" />
+          <img class="pc-screenshot" src="img/projects/photo13.jpg" alt="Photo of an animal" />
+          <img class="pc-screenshot" src="img/projects/photo14.jpg" alt="Photo of an animal" />
+          <img class="pc-screenshot" src="img/projects/photo15.jpg" alt="Photo of an animal" />
+        </div>
+
+        <div class="paragraph">
+              <div class="notice">
+                For more photos you can visit my <a target="_blank" href="https://www.instagram.com/aulrizk25/">Instagram Page</a>
+              </div>
+            </div>
+    `, "#07457e", true, true),
+    new ProjectData("project-7", "Active Sleep App", "img/projects/active-sleep-4.jpg", `
     <div class="paragraph">
       <strong>Active Sleep App</strong> is an Android & iOS application for monitoring sleep quality.
       <br/>It analyzes heartbeats, breathing, and body movements that cannot be understood just by sleeping, scores the sleep of the day, and gives a little advice.
@@ -29,7 +62,7 @@ export default [
           <img class="phone-screenshot" src="img/projects/active-sleep-logo.jpg" alt="Active Sleep App Screenshot" />
         </div>
     `, "#07457e", true, false),
-    new ProjectData("project-7", "Digital School Note", "img/projects/digital-school-note.png", `
+    new ProjectData("project-8", "Digital School Note", "img/projects/digital-school-note.png", `
     <div class="paragraph">
                 The <strong>Digital School Note</strong> Uchida Yoko is an educational application designed to enhance digital learning environments.
                 <br/>It supports collaborative activities by allowing students and teachers to create, share, and edit notes in real-time on tablets or computers. This system integrates digital tools to promote interactive and effective learning in classrooms.
@@ -58,7 +91,7 @@ export default [
                 <img class="pc-screenshot" src="img/projects/digital-school-note-3.png" alt="Digital School Note Screenshot" />
                 <img class="pc-screenshot" src="img/projects/digital-school-note-4.png" alt="Digital School Note Screenshot" />
             </div>`, "#1ca1e2", false, true),
-    new ProjectData("project-8", "Master's Research Project: Accessibility for Hard-of-Hearing gamers", "img/projects/master-research-1.png", `
+    new ProjectData("project-9", "Master's Research Project: Accessibility for Hard-of-Hearing gamers", "img/projects/master-research-1.png", `
     <div class="paragraph">
                 <strong>My researches</strong> advances human-computer interaction (HCI) and accessibility to create inclusive gaming experiences.
                 <br/>During my Master's, I developed immersive VR horror games for the hearing impaired using Meta Quest 3, enhancing sensory feedback for universal enjoyment.
@@ -103,7 +136,7 @@ export default [
                 <img class="pc-screenshot" src="img/projects/master-research-3.png" alt="Master Research Screenshot" />
                 <img class="pc-screenshot" src="img/projects/master-research-4.png" alt="Master Research Screenshot" />
             </div>`, "#e82a2a"),
-    new ProjectData("project-9", "Doctor's Research Project: Accessibility for Visually Impaired gamers", "img/projects/doctor-research-logo.jpg", `
+    new ProjectData("project-10", "Doctor's Research Project: Accessibility for Visually Impaired gamers", "img/projects/doctor-research-logo.jpg", `
     <div class="paragraph">
                 <strong>My researches</strong> advances human-computer interaction (HCI) and accessibility to create inclusive gaming experiences.
                 <br/>Now, in my PhD, I focus on tactile interfaces for board games, enabling visually impaired players to engage under the same rules and challenges as others, promoting truly inclusive design and universal accessibility.

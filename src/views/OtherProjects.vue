@@ -1,9 +1,10 @@
 <template>
   <div>
-    <h1>Research and other projects</h1>
+    <h1>Research and other projects!</h1>
 
     <div style="margin-bottom: 30px;">
-      Here are some other stuff I'm heavily contributed to, and my research projects that I've made, which are totally different than the stuff from earlier.
+      Here are some other stuff I'm heavily contributed to, and my research projects that I've made. <br/>
+      I also showcase my photography skill in this page, feel free to look at them.
     </div>
     <ProjectsList v-bind:projects="projects" />
   </div>

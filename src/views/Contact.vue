@@ -1,7 +1,7 @@
 <template>
   <div>
     
-    <h1>Let's get in touch</h1>
+    <h1>Let's get in touch!</h1>
 
     <div style="margin-bottom:40px;">Feel free to contact me about opportunity, game development, or just to chat about kittens and anything else :)</div>
 
